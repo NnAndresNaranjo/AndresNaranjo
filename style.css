@@ -10,7 +10,7 @@ body {
 }
 
 
-header {
+ header {
 
     position: relative;
 
@@ -24,7 +24,7 @@ header {
 
     color: white;
 
-}
+} 
 
 
 header::before {
@@ -351,4 +351,16 @@ footer {
 
 .contact-person p {
     line-height: 1.6;
+}
+
+.lora-medium-italic {
+
+    font-family: "Lora", serif;
+
+    font-weight: 500;
+
+    font-style: italic;
+
+    font-size: 11pt;
+
 }
