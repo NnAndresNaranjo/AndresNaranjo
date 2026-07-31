@@ -71,6 +71,53 @@ footer {
 }
 
 
+.contact-links {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 40px;
+
+    margin-top: 25px;
+
+}
+
+
+.contact-links img {
+
+    height: 70px;
+
+}
+
+
+.contact-links i {
+
+    font-size: 70px;
+
+    color: #0a66c2;
+
+}
+
+
+.contact-links a {
+
+    text-decoration: none;
+
+}
+
+
+.copyright {
+
+    margin-top: 30px;
+
+    font-size: 14px;
+
+}
+
+
 
 .logos img {
 
