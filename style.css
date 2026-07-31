@@ -112,7 +112,7 @@ header::after {
 
     max-width: 900px;
     margin: 50px auto;
-    padding: 25px; /* Cuando cambio este numero se cambia el tamano del video incrustado */
+    padding: 20px; /* Cuando cambio este numero se cambia el tamano del video incrustado */
 
     background-color: #f5f0e6;
 
