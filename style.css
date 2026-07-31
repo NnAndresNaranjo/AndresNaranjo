@@ -6,7 +6,11 @@
 
 body {
 
-    font-family: Arial, sans-serif;
+    font-family: "Lora", serif;
+
+    font-style: normal;
+
+    font-weight: 400;
 
     margin: 0;
 
@@ -62,6 +66,7 @@ header h1 {
 
     font-weight: 600;
 
+}
 
 /* ==========================================================
    3. HEADER
