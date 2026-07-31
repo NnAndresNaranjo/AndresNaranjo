@@ -54,6 +54,15 @@ p {
 
 }
 
+/* Main title */
+
+header h1 {
+
+    font-family: "Lora", serif;
+
+    font-size: 3.5rem;
+
+    font-weight: 600;
 
 
 /* ==========================================================
@@ -290,6 +299,13 @@ footer {
     .contact-person {
 
         text-align: center;
+
+    }
+
+
+    header h1 {
+
+        font-size: 2.2rem;
 
     }
 
