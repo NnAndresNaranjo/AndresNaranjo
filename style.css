@@ -126,3 +126,90 @@ footer {
     margin: 20px;
 
 }
+
+/* Contact section */
+
+.contact-person {
+
+    margin-bottom: 30px;
+
+}
+
+
+.contact-person h3 {
+
+    margin-bottom: 5px;
+
+}
+
+
+.contact-person p {
+
+    line-height: 1.6;
+
+}
+
+
+.contact-person a {
+
+    color: #0a66c2;
+
+    text-decoration: none;
+
+}
+
+
+.contact-person a:hover {
+
+    text-decoration: underline;
+
+}
+
+
+/* Logos and social links */
+
+.contact-links {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 40px;
+
+    margin-top: 30px;
+
+}
+
+
+.contact-links img {
+
+    height: 70px;
+
+}
+
+
+.contact-links i {
+
+    font-size: 70px;
+
+    color: #0a66c2;
+
+}
+
+
+.contact-links a {
+
+    text-decoration: none;
+
+}
+
+
+.copyright {
+
+    margin-top: 30px;
+
+    font-size: 14px;
+
+}
