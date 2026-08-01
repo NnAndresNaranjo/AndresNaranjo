@@ -21,8 +21,9 @@ body {
 }
 
 p {
-   margin: 50px auto; 
 
+   font-family: "Lora", serif;
+   
    text-align: justify;  
    
    }
