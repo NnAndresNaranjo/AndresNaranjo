@@ -146,7 +146,7 @@ header::after {
 
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 30px 30px;
     flex-wrap: wrap;
 
 }
