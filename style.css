@@ -12,7 +12,9 @@ body {
 
     font-weight: 400;
 
-    margin: 0;
+    margin: 50px auto; 
+
+    text-align: justify;  
 
     line-height: 1.6;
 
